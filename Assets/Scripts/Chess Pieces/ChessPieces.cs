@@ -28,9 +28,6 @@ public class ChessPieces : MonoBehaviour
     {
         List<Vector2Int> r = new List<Vector2Int>();
 
-
-
-
         return r;
     }
     private void Update() {
